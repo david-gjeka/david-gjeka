@@ -7,7 +7,7 @@ Junior Data Scientist and Computer Science student, passionate about architectin
 ### 💡 About Me
 
 - 🔭 **I’m currently working on:** Enterprise GenAI solutions, custom AI agents, and orchestration pipelines using Azure AI Foundry and Copilot Studio at Porini (DGS Group).
-- 🌱 **I’m currently learning:** Computer Science topics at Università degli Studi dell'Insubria, along with Microsoft certification in my work field (like AI-103, AB-100, AB-620).
+- 🌱 **I’m currently learning:** Computer Science topics at Università degli Studi dell'Insubria, along with Microsoft certification in my work field (like AI-500, AB-100, AB-620).
 - 💬 **Ask me about:** Generative AI agents, Copilot Studio, Azure AI ecosystem.
 - 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/david-gjeka).
 
@@ -27,6 +27,7 @@ Junior Data Scientist and Computer Science student, passionate about architectin
 - **GH-300:** GitHub Copilot
 - **GH-900:** GitHub Foundations
 - **SC-401:** Microsoft Information Security Administrator Associate
+- **AI-103:** Azure AI Apps and Agents Developer Associate
 - More to come... 
 
 ---
